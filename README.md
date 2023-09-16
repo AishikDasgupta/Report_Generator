@@ -54,7 +54,7 @@ report_maker/
 If you possess the wisdom of Merlin and have spells, enhancements, or even tales of magical creatures related to this project, don't hesitate to open an enchanted issue or conjure a pull request. Your contributions are welcomed from every corner of the mystical world!
 
 ## 📄 Scroll of License
-This project is protected by the ancient and benevolent MIT License. Dive into the LICENSE scroll to unveil its ancient words.
+This project is protected by the ancient and benevolent MIT License. Dive into the LICENSE(mailto:https://github.com/AishikDasgupta/Report_Generator/blob/main/LICENSE) scroll to unveil its ancient words.
 
 ## 📧 Contact the Sorcerer
 For inquiries, feedback, or a friendly chat about your latest potion-making experiments, you can reach out to Your Name.
